@@ -1,0 +1,24 @@
+.wordInput {
+    text-align: center;
+}
+
+.add {
+    font-size: 20px;
+    border-radius: 16px;
+    background-color: black;
+    color: white;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border: 1px solid black;
+}
+
+.deal {
+    margin-top: 25px;
+    font-size: 20px;
+    border-top-left-radius: 16px;
+    border-bottom-left-radius: 16px;
+    background: rgba(255, 255, 255, 0.92);
+    border: 1px solid black;
+    backdrop-filter: blur(10.2px);
+    -webkit-backdrop-filter: blur(10.2px);
+}

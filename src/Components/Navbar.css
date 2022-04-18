@@ -1,0 +1,13 @@
+.logo {
+    height: 32px;
+    margin-right: 5px;
+}
+
+.header {
+    /* background: black; */
+    position: sticky;
+}
+
+.text {
+    color: white;
+}
